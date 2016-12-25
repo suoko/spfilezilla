@@ -1,5 +1,13 @@
 # spfilezilla
 
+This is modified verision of https://spfilezilla.codeplex.com/downloads/get/1488499 to work on linux workmachines.
+
+It will let you access both onedrive for business and sharepoint document libraries
+
+-----------------
+
+INSTRUCIONS
+
 Install mono-complete package : "sudo apt install mono-complete"
 
 Run spfilezilla with mono : "mono bin/Debug/SPFileZilla2013.exe"
