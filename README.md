@@ -1,8 +1,8 @@
 # spfilezilla
 
-This is modified verision of https://spfilezilla.codeplex.com/downloads/get/1488499 to work on linux workmachines.
+This is modified version of https://spfilezilla.codeplex.com/downloads/get/1488499 to work on linux workmachines.
 
-It will let you access both onedrive for business and sharepoint document libraries
+It will let you access both OnedriveForBusiness and sharepoint document libraries
 
 -----------------
 
