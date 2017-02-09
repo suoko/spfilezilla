@@ -559,7 +559,7 @@ namespace BandR
             out bool skipped,
             out string msg)
         {
-            msg = "ENTRATO 548";
+            msg = "";
 			Console.WriteLine (msg);
             skipped = false;
 
@@ -657,7 +657,7 @@ namespace BandR
             byte[] fileData,
             out string msg)
         {
-			msg = "ENTRATO 650";
+			msg = "";
 			Console.WriteLine (msg);
 
             try
